@@ -14,10 +14,10 @@ Lover of Technology and coding :heart:
 
 
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/guicastle)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/in/guilherme-munizti/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guicastle)](https://github.com/guicastle)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-munizti/)](https://www.linkedin.com/in/guilherme-munizti/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=5531987551965&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucassiqueirafernandes07@gmail.com)](mailto:kads.oficial@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kads.oficial@gmail.com)](mailto:kads.oficial@gmail.com)
 
 - Thanks for visiting. 
 - Enjoy it!! o/
