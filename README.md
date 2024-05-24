@@ -17,6 +17,27 @@ Lover of Technology and coding :heart:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=5531987551965&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kads.oficial@gmail.com)](mailto:kads.oficial@gmail.com)
 
+
+### Skills:
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,react,next,vite,nodejs,express,java,tailwind,styledcomponents,spring,mysql,postgresql,firebase,mongodb,bootstrap,dotnet,c#," />
+  </a>
+</p>
+
+### Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,photoshop,notion,trello" />
+  </a>
+</p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{estefanilira}/count.svg" /></p> 
+<br>
+</div>
+
 - Thanks for visiting. 
 - Enjoy it!! o/
 
