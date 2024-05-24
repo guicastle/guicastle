@@ -1,9 +1,7 @@
-## Hi there 👋
+# Hi there 👋 Welcome!
 
 <img align="right" width="400" height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBhYTI4NWhjaGFlN3k2NHdsNXB0YWlmcDNwY2w3d2ZnZzB2amsxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llJVg4Ri0VrUBzNOgG/giphy.gif">
 
-
-# Welcome!
 ## I'm Guilherme! Let me present a little about myself :D
 
 Full-Stack focused in Flutter and NodeJS | Software engineer :robot:
